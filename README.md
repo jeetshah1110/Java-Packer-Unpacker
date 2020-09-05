@@ -13,6 +13,6 @@
 
 2. Select Pack or Unpack
   1. Packing Activity:- 
-    * Enter the aboslute path of the directory in which all the files to be packed are present. *eg:- C:\Users\Dir*. Here, Dir directory contains all the files to be packed.
-    * Enter the absolute path and the name of the output file to be created. *eg:- C:\Users\PackedFile*. Here, Packedfile is the output file.
+      * Enter the aboslute path of the directory in which all the files to be packed are present. *eg:- C:\Users\Dir*. Here, Dir directory contains all the files to be packed.
+      * Enter the absolute path and the name of the output file to be created. *eg:- C:\Users\PackedFile*. Here, Packedfile is the output file.
     
