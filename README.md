@@ -19,10 +19,10 @@
       * Enter the absolute path and the name of the output file to be created. *eg:- C:\Users\PackedFile*. Here, Packedfile is the output file.
       * Enter Submit button and check if a new packed file is created at the given location.
       
-      ![pack](https://user-images.githubusercontent.com/36303896/92306550-91a34b00-efad-11ea-93b6-9dd56682bf18.png)
+  ![pack](https://user-images.githubusercontent.com/36303896/92306550-91a34b00-efad-11ea-93b6-9dd56682bf18.png)
       
 4. Unpacking Activity:-
       * Enter the absolute path of previously created packed file or any packed other packed file.
       * Enter Submit button and check if all packed files are unpacked at the same location.
       
-      ![unpack](https://user-images.githubusercontent.com/36303896/92306628-2e65e880-efae-11ea-8b06-15fca580feb9.png)
+  ![unpack](https://user-images.githubusercontent.com/36303896/92306628-2e65e880-efae-11ea-8b06-15fca580feb9.png)
