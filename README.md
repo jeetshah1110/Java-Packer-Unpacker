@@ -9,7 +9,5 @@ How to execute this project?
 
 1. Open PackerUnpacker.exe 
 
-2. Select whether you want to perform Packing activity or unpacking activuty
-  ![Alt text](C:\Users\Jeet\Pictures\Screenshots\pack.png?raw=true "Title")
-      
-  
+2. Select whether you want to perform Packing activity or unpacking activity.
+![home](https://user-images.githubusercontent.com/36303896/92306220-0aed6e80-efab-11ea-8f5c-fedc77248c1a.png)
