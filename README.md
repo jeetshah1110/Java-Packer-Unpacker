@@ -5,7 +5,7 @@
 * In the case of Unpacking activity, we extract all data from packed files and according to its metadata, we create all files
 * This Application is similar to ZIP operation but the difference is here we don't compress files while packing activity
 * The packing and unpacking operations are performed using inbuilt file operations in Java
-* Currently, only text file files can be packed using this applications and all other files are ignored.
+* Currently, only .txt, .cpp, .java & .c files can be packed using this applications and all other files are ignored.
 
 ## How to execute this project?
 
